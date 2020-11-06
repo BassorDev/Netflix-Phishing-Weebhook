@@ -1,4 +1,4 @@
-# Netflix-Phishing-Weebhook
+# Netflix-Phishing-Webhook
 phishing for "Netflix.com", everything will be received on a discord webhook. Convenient to be notified when a new victim is trapped.
 
 ( REQUIRED : website with php, fillezila, the discord app, a brain. )
